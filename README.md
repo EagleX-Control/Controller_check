@@ -1,13 +1,13 @@
 
 <p style="text-align: center;">
-  <img src="__assets/logo" alt="logo" style="width:350px;"/>
+  <img src="_assets/logo_blanco.png" alt="logo" style="width:350px;"/>
   </p>
 
 # Controller_check
-Created by @FerMatute
+Created by [@FerMatute](https://github.com/FerMatute)
 
 ## <span style="color: rgb(26, 99, 169);">**Purpose**</span>
-This repo was created to check if your controller is being detected on your Computer/Raspberry/Arduino. Below are instructions on how to run it and try it.
+This repository was created to check if your controller is being detected on your Computer/Raspberry/Jetson. Below are instructions on how to run it and try it.
 
 ## <span style="color: rgb(26, 99, 169);">**Instructions**</span>
 1. Clone this repository on your computer

@@ -3,7 +3,7 @@
   <img src="_assets/logo_blanco.png" alt="logo" style="width:350px;"/>
   </p>
 
-# Controller_check
+# joy_tester
 Created by [@FerMatute](https://github.com/FerMatute)
 
 ## <span style="color: rgb(26, 99, 169);">**Purpose**</span>
